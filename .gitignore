@@ -1,0 +1,12 @@
+.Rhistory
+rsconnect/
+.Rproj.user/
+old/
+Testing.R
+
+# Apple stuff
+._*
+.DS_Store
+
+#Big data
+data/9606*

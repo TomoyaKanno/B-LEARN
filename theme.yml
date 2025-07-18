@@ -1,0 +1,16 @@
+colors:
+  repressor: "#D8222A"
+  activator: "#28A1D0" 
+  repressor_light: "#fdf7f7"
+  activator_light: "#f7fafc"
+  neutral_bg: "#f8f9fa"
+
+styles:
+  control_panel: "background-color: #f8f9fa; border-radius: 8px;"
+  repressor_panel: "background-color: #fdf7f7; border: 1px solid #D8222A; border-radius: 8px; margin-right: -10px;"
+  activator_panel: "background-color: #f7fafc; border: 1px solid #28A1D0; border-radius: 8px; margin-left: -10px;"
+
+headers:
+  base: "margin-top: 0;"
+  repressor: "color: #D8222A; margin-top: 0;"
+  activator: "color: #28A1D0; margin-top: 0;"
